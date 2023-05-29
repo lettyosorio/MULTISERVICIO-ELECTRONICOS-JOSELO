@@ -1,0 +1,7 @@
+#contenido_oculto {
+    display: none;
+    }
+   
+   #contenido_oculto.mostrado {
+   display: block;
+   }
